@@ -1,0 +1,4 @@
+fastapi
+fasttext
+uvicorn[standard]
+pythainlp
